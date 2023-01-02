@@ -1,0 +1,2 @@
+# raspberrypi
+to store configs
